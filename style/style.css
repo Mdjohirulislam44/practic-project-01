@@ -92,4 +92,17 @@ h2{
 .card button:hover {
   background: #ddd;
 }
+.copyright {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.copyright p {
+  margin: 0;
+}
+
 
